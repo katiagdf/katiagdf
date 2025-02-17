@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**katiagdf/katiagdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👩‍💻 About me
+Student at IAE SAVOIE MONT BLANC - 3rd year of degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning IT management
+
+## 🛠️ Languages and Tools
+Arduino  Canva  Figma  Java  Jupyter  MySQL  R  VSCode  WordPress  HTML
+
+## 🔥 My Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?katiagdf=DenverCoder1)](https://git.io/streak-stats)
+
